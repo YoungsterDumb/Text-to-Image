@@ -1,0 +1,8 @@
+### Make sure you set up and insttalled CUDA
+
+
+tensorflow==2.10 # Latest stable version using CUDA
+numpy
+pandas
+matplotlib
+tensorflow_hub # This uses for pretrained model 
