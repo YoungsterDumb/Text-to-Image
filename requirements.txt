@@ -1,0 +1,6 @@
+ diffusers 
+ transformers 
+ torch 
+ pytorch-lightning
+ scipy 
+ pytorch-fid
