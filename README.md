@@ -93,9 +93,13 @@ Generated images are automatically saved in the `output/` directory. Each filena
 - 📊 CLIP score
 
 ### Example filename:
-```
-20250608_215900_A fantasy-style girl with glow_25.44.png
-```
+<div align="center">
+
+**Prompt**: "A fantasy-style girl with glow"  
+
+![Sample Generated Image](output/20250608_215900_A%20fantasy-style%20girl%20with%20glow_25.44.png)
+
+</div>
 
 ## 📊 CLIP Score Interpretation
 
@@ -108,29 +112,6 @@ The CLIP score indicates how well the generated image matches the input text:
 | 40-60 | ⭐ Moderate similarity |
 | < 40 | 💫 Low similarity |
 
-## 🤝 Support & Feedback
 
-If you encounter any issues or have suggestions for improvements, please feel free to:
-- Open an issue in the repository
-- Submit a pull request
-- Contact the maintainers
-
-## 📝 Citation
-
-If you use this project in your research, please cite:
-
-```bibtex
-@software{text2img2024,
-  author = {Your Name},
-  title = {Text2Img: Text-to-Image Generation with CLIP Evaluation},
-  year = {2024},
-  url = {https://github.com/yourusername/Text2Img}
-}
-```
-
----
-<div align="center">
-Made with ❤️ for the AI community
-</div>
 
 
