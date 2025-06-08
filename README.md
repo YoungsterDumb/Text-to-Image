@@ -1,8 +1,10 @@
 # Text2Img Project 🎨
 
 <div align="center">
+  
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange.svg)
+
 </div>
 
 This project implements a text-to-image generation system using Stable Diffusion with CLIP score evaluation. The system can generate high-quality images from text descriptions and evaluate how well the generated images match the input prompts.
